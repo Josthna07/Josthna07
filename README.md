@@ -1,5 +1,5 @@
 HI I am josthna.
-I am interested in cloud computing and web development
+I am interested in cloud computing and web development.
 I am currently learning cloud computing.
 
 
